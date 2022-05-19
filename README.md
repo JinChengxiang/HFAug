@@ -14,9 +14,9 @@ Available at [link](https://arxiv.org/abs/2204.08916).
 Recent versions of the following packages for Python are required:
 
 - dgl-cuda10.2  0.8.0
-- pytoch  1.10.0
+- pytorch  1.10.0
 - scikit-learn  1.0.1
-- toch-geometric-temporal  0.50.0
+- toch-geometric  2.0.3
 - numpy  1.20.3
 
 # Data
